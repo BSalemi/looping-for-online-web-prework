@@ -5,5 +5,3 @@ def using_for
 	  "Wingardium Leviosa"
 	end
 end
-
-
